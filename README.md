@@ -32,11 +32,6 @@ pip install termcolor
    cd SpoofMailer
    ```
 
-2. **Run the Tool**:
-   ```bash
-   python spoofmail.py
-   ```
-
 ## SMTP Configuration
 
 To configure your SMTP server, log in to your [Brevo account](https://www.brevo.com/) and obtain your SMTP server details, including:
@@ -48,14 +43,11 @@ To configure your SMTP server, log in to your [Brevo account](https://www.brevo.
 
 ## Usage
 
-1. **Run the Script**:
+2. **Run the Script**:
    Execute the script in your terminal:
    ```bash
    python3 spoofmail.py
    ```
-
-2. **Input SMTP Configuration**:
-   When prompted, enter your SMTP host, port, username, and password obtained from Brevo.
 
 3. **Specify Email Details**:
    - **From Address**: Enter the sender’s email address.
