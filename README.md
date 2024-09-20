@@ -51,7 +51,7 @@ To configure your SMTP server, log in to your [Brevo account](https://www.brevo.
 1. **Run the Script**:
    Execute the script in your terminal:
    ```bash
-   python spoofmail.py
+   python3 spoofmail.py
    ```
 
 2. **Input SMTP Configuration**:
